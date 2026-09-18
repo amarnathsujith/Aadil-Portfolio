@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Thum.io | Uh oh...</title>
+		<meta charset="utf-8">
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,400,700,400italic&amp;lang=en" />
+		<link rel="stylesheet" href="/build/client/commons.8230f1a0700c7b0a4cc8.css" />
+		<link rel="stylesheet" href="/build/client/external.a34e53239ae784fed0e6.css" />
+		<meta property="og:title" content="Uh oh... | Thum.io" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="https://image.thum.io/get/ogImage/http://image.thum.io" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Uh oh... | Thum.io" />
+		<meta name="twitter:image" content="https://image.thum.io/get/ogImage/http://image.thum.io" />
+	</head>
+	<body class="external">
+		<div id="flash-messages"></div>
+
+		<header id="external-navbar"><nav class="navbar navbar-default navbar-fixed-top" data-reactroot="" data-reactid="1" data-react-checksum="2108749215"><div class="container" data-reactid="2"><div class="navbar-header" data-reactid="3"><a href="/" class="navbar-brand" data-reactid="4"><img src="/logoWithName.png" data-reactid="5"/></a><button type="button" class="navbar-toggle collapsed" data-reactid="6"><span class="sr-only" data-reactid="7">Toggle navigation</span><span class="icon-bar" data-reactid="8"></span><span class="icon-bar" data-reactid="9"></span><span class="icon-bar" data-reactid="10"></span></button></div><div class="navbar-collapse collapse" data-reactid="11"><ul class="nav navbar-nav navbar-right" data-reactid="12"><li role="presentation" class="" data-reactid="13"><a href="/gallery" data-reactid="14">Gallery</a></li><li role="presentation" class="" data-reactid="15"><a href="/building-a-website-screenshot-generator" data-reactid="16">Technology</a></li><li role="presentation" class="" data-reactid="17"><a href="/#pricing" data-reactid="18">Pricing</a></li><li role="presentation" class="" data-reactid="19"><a href="/#contact" data-reactid="20">Contact</a></li><li role="presentation" class="" data-reactid="21"><a href="/docs" data-reactid="22">Docs</a></li><li role="presentation" class="" data-reactid="23"><a href="/login" data-reactid="24">Login</a></li><li data-reactid="25"><p class="navbar-btn" data-reactid="26"><a href="/signup" class="btn btn-primary" data-reactid="27">Signup</a></p></li></ul></div></div></nav></header>
+
+		<section class="container">
+			<h2>Uh oh...</h2>
+			<h3>Not Found</h3>
+			<h4>404</h4>
+		</section>
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<div>
+							<a href="/">
+								<img class="footer-logo" src="/logoWithNameWhite.png" alt="Thum.io" />
+							</a>
+						</div>
+						<small>Copyright 2026. All Rights Reserved.</small>
+					</div>
+					<div class="col-md-3">
+						<strong class="footer-category">Product</strong>
+						<div><a href="/#about">About</a></div>
+						<div><a href="/building-a-website-screenshot-generator">Technology</a></div>
+						<div><a href="/#demo">Demo</a></div>
+						<div><a href="/documentation/api/url">API Documentation</a></div>
+						<div><a href="/documentation/api/javascript">Javascript Library</a></div>
+						<div><a href="/facebook-twitter-share-screenshots">Usage with Share Images</a></div>
+						<div><a href="/#pricing">Pricing</a></div>
+					</div>
+					<div class="col-md-3">
+						<strong class="footer-category">Thum.io</strong>
+						<div><a href="mailto:support@thum.io">Contact Us</a></div>
+						<div><a href="/gallery">Screenshot Gallery</a></div>
+						<div><a href="/how-to-screenshot-a-webpage">How to Take a Screenshot</a></div>
+						<div><a href="https://www.thumlapse.com" target="_blank">Screenshot Timelapses</a></div>
+						<div><a href="https://www.stayresponsive.com" target="_blank">Responsiveness Test</a></div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<script>
+			var thum = {"config":{"env":"prod"},"env":{"ROLLBAR_CLIENT_ACCESS_TOKEN":"c94e39d6515d4c18aa63d098a589a6d9"},"loggedIn":false};
+		</script>
+		<script src="/build/client/commons.8230f1a0700c7b0a4cc8.js"></script>
+		<script async src="/build/client/external.a34e53239ae784fed0e6.js"></script>
+
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-88091760-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		
+		<!-- Global site tag (gtag.js) - Google Ads: 869052120 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-869052120"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'AW-869052120');
+		</script>
+		<!-- Google Code for Add to Cart Conversion Page
+		In your html page, add the snippet and call goog_report_conversion
+		when someone clicks on the chosen link or button. -->
+		<script type="text/javascript">
+		 /* <![CDATA[ */
+		goog_snippet_vars = function(options) {
+			options = options || {};
+
+			var w = window;
+
+			w.google_conversion_id = 869052120;
+			w.google_conversion_language = "en";
+			w.google_conversion_color = "ffffff";
+			w.google_conversion_label = "dC9wCN7WpWwQ2N2yngM";
+			w.google_remarketing_only = false;
+
+			if (options.conversionValue) {
+				w.google_conversion_value = options.conversionValue;
+				w.google_conversion_currency = "USD";
+			}
+		}
+		// DO NOT CHANGE THE CODE BELOW.
+		goog_report_conversion = function(options) {
+			options = options || {};
+
+			goog_snippet_vars(options);
+			window.google_conversion_format = "3";
+			var opt = new Object();
+			opt.onload_callback = function() {
+			if (typeof(options.url) != 'undefined') {
+				window.location = options.url;
+			}
+		}
+		var conv_handler = window['google_trackConversion'];
+		if (typeof(conv_handler) == 'function') {
+			conv_handler(opt);
+			}
+					}
+		/* ]]> */
+		</script>
+		<script type="text/javascript"
+		src="//www.googleadservices.com/pagead/conversion_async.js">
+		</script>
+
+		
+		<!-- Code for Bing conversions -->
+		<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function()
+			{var o={ti:"5665853"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},
+			n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function()
+			{var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),
+			n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],
+			i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+		</script>
+		<noscript><img src="//bat.bing.com/action/0?ti=5665853&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+
+			</body>
+</html>
