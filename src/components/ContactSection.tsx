@@ -12,7 +12,7 @@ export const ContactSection: React.FC = () => {
   const [copied, setCopied] = useState(false);
   const [loading, setLoading] = useState(false);
 
-  const directEmail = 'hello@aadilmuhammed.com';
+  const directEmail = 'aadhix3@gmail.com';
 
   const copyEmail = () => {
     navigator.clipboard.writeText(directEmail);
