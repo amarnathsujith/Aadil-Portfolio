@@ -67,13 +67,13 @@ export const AboutSection: React.FC = () => {
             </h3>
             <div className="space-y-4 text-sm text-neutral-600 leading-relaxed">
               <p>
-                I am a Sydney-based product designer and frontend engineer with over a decade of experience crafting digital products, mobile web experiences, and robust design systems.
+                I’m Aadil Muhammed, a third-year student at University College of Engineering Kariavattom with a strong interest in filmmaking, cinematography, and video editing.
               </p>
               <p>
-                Throughout my career, I’ve found that the best digital products are born when visual aesthetics and technical feasibility work hand-in-hand from day one. By operating seamlessly in both Figma and modern TypeScript/React, I eliminate the traditional developer-designer friction.
+                I enjoy turning ideas into engaging visual stories, experimenting with camera work, editing techniques, and creative visual concepts. From capturing moments to shaping the final story through editing, I’m always interested in exploring how visuals can communicate emotions and ideas effectively.
               </p>
               <p>
-                When I'm not pushing pixels or refactoring code, you'll find me writing about design tokens, experimenting with creative coding, or speaking at design engineering meetups.
+                Alongside my academics, I’m continuously developing my skills in filmmaking and video production, experimenting with new creative styles, and looking for opportunities to work on projects that challenge me to think creatively.
               </p>
             </div>
 
